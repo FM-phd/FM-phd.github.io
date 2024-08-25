@@ -15,9 +15,7 @@ Education
 
 
   09/2024~Present, Chongqing University, School of Civil Engineering, Ph.D. Student in HVAC
-
   09/2019~06/2022, Hebei University of Engineering, School of Energy and Environmental Engineering, Master of Engineering
-
   09/2015~06/2019, Hebei University of Engineering, School of Energy and Environmental Engineering, Bachelor of Engineering
 
 Work
