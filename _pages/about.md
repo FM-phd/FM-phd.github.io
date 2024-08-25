@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Guoning Zhu"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,7 @@ Now, I am conducting research under the guidance of Prof.[Xiao Yimin(肖益民)]
 
 Education
 
-======
+
   09/2024~Present, Chongqing University, School of Civil Engineering, Ph.D. Student in HVAC
 
   09/2019~06/2022, Hebei University of Engineering, School of Energy and Environmental Engineering, Master of Engineering
@@ -22,5 +22,5 @@ Education
 
 Work
 
-======
+
   06/2022~06/2024, China Electronics Engineering Design Institute CO.,LTD, HVAC Engineer(Semiconductor industry clean room particle pollutant control and air conditioning system energy saving)
